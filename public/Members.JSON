@@ -1,0 +1,20 @@
+  [{"id":1,"name":"Olivia","profession":"Founder","salary":10000,"country":"Bangladesh","img":"https://infallible-franklin-3beea0.netlify.app/image/1%20(1).jpg"},
+    
+    {"id":2,"name":"Emma","profession":"Software Engineer","salary":1000, "country":"India","img":"https://infallible-franklin-3beea0.netlify.app/image/1%20(2).jpg"},
+
+    {"id":3,"name":"Jorina","profession":"Product Manager","salary":500, "country":"Pakistan","img":"https://infallible-franklin-3beea0.netlify.app/image/1%20(3).jpg"},
+    {"id":4,"name":"Sokina","profession":"Web Developer","salary":500, "country":"Vutan","img":"https://infallible-franklin-3beea0.netlify.app/image/1%20(4).jpg"},
+    {"id":5,"name":"Loyok","profession":"Software Product Manager","salary":500, "country":"Bangladesh","img":"https://infallible-franklin-3beea0.netlify.app/image/1%20(5).jpg"},
+    {"id":6,"name":"William","profession":"Community Manager","salary":400, "country":"Uganda","img":"https://infallible-franklin-3beea0.netlify.app/image/1%20(6).jpg"},
+    
+    {"id":7,"name":"Lucas","profession":"Web Application Developer","salary":400, "country":"Maldip","img":"https://infallible-franklin-3beea0.netlify.app/image/1%20(6).jpg"},
+    
+    {"id":8,"name":"Habib","profession":"Content Editor","salary":300, "country":"England","img":"https://infallible-franklin-3beea0.netlify.app/image/1%20(8).jpg"},
+    
+    {"id":9,"name":"Ahsan","profession":"Supporting Instructor","salary":300, "country":"Bangladesh","img":"https://infallible-franklin-3beea0.netlify.app/image/1%20(9).jpg"},
+    
+    {"id":10,"name":"Abid","profession":"Supporting Instructor","salary":300, "country":"Bangladesh","img":"https://infallible-franklin-3beea0.netlify.app/image/1%20(10).jpg"},
+    
+    {"id":11,"name":"Pori Moni","profession":"Web Developer","salary":350, "country":"Bangladesh","img":"https://infallible-franklin-3beea0.netlify.app/image/1%20(3).jpg"},
+    
+    {"id":12,"name":"Apon","profession":"HR Executive","salary":500,"country":"Bangladesh","img":"https://infallible-franklin-3beea0.netlify.app/image/1%20(8).jpg"}]

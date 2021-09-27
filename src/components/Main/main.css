@@ -1,0 +1,12 @@
+.main-container{
+    display: grid;
+    padding: 40px;
+    grid-template-columns: 3fr 1fr;
+}
+.text{
+    padding: 20px;
+}
+.cart-container{
+    margin-left: 10px;
+    width: 300px;
+}
